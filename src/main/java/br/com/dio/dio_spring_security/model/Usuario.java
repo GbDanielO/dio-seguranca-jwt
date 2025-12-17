@@ -1,4 +1,4 @@
-package br.com.dio.dio_spring_security.module;
+package br.com.dio.dio_spring_security.model;
 
 import jakarta.persistence.*;
 import lombok.Data;

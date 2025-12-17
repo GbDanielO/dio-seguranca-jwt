@@ -1,6 +1,6 @@
 package br.com.dio.dio_spring_security.repository;
 
-import br.com.dio.dio_spring_security.module.Usuario;
+import br.com.dio.dio_spring_security.model.Usuario;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

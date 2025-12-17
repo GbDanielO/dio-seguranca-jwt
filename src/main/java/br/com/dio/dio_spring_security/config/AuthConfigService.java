@@ -1,6 +1,6 @@
 package br.com.dio.dio_spring_security.config;
 
-import br.com.dio.dio_spring_security.module.Usuario;
+import br.com.dio.dio_spring_security.model.Usuario;
 import br.com.dio.dio_spring_security.repository.UsuarioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.GrantedAuthority;
